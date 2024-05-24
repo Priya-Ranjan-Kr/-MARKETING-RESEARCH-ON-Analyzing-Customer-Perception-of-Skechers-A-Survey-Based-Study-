@@ -22,7 +22,6 @@
     - [Cluster Analysis](#cluster-analysis)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-7. [Appendices](#appendices)
 
 ---
 
@@ -94,10 +93,6 @@ The study found significant factors influencing customer loyalty and perception 
 ## Conclusion
 The analysis provides valuable insights into customer perceptions of Skechers, highlighting the importance of product quality and identifying key factors influencing customer loyalty. These insights can help Skechers tailor their marketing strategies and improve customer satisfaction.
 
-## Appendices
-- **Appendix A**: Survey Questionnaire
-- **Appendix B**: Detailed Statistical Results
-- **Appendix C**: Raw Data (If applicable)
 
 ---
 
