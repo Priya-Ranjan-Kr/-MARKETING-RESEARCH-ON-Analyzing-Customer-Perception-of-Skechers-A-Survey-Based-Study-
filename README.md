@@ -1,6 +1,4 @@
-# -MARKETING-RESEARCH-ON-Analyzing-Customer-Perception-of-Skechers-A-Survey-Based-Study-
-
-# Analyzing Customer Perception of Skechers: A Survey-Based Study
+# MARKETING-RESEARCH-ON-Analyzing-Customer-Perception-of-Skechers-A-Survey-Based-Study-
 
 ## By Priya Ranjan Kr.
 
