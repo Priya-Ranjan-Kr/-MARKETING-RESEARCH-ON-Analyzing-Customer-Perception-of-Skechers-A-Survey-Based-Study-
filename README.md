@@ -3,7 +3,7 @@
 ## By Priya Ranjan Kr.
 
 **GitHub**: [Priya-Ranjan-Kr](https://github.com/Priya-Ranjan-Kr)  
-**LinkedIn**: [Priya Ranjan Kumar](https://www.linkedin.com/in/priya-ranjan-kumar)
+**LinkedIn**: [Priya Ranjan Kumar](https://www.linkedin.com/in/pranjankr/)
 
 ---
 
